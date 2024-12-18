@@ -1,1 +1,1 @@
-Um Clone de Space Invaders, clássico jogo de tiro espacial, desenvolvido inteiramente em linguagem Assembly. Este projeto demonstra habilidades avançadas em programação de baixo nível. Este clone apresenta naves aliadas e alienígenas, cenários, projéteis e sistema de pontuação dinâmico.
+Um Clone de Space Invaders, clássico jogo de tiro espacial, desenvolvido inteiramente em linguagem Assembly. Este clone apresenta naves aliadas e alienígenas, cenários, projéteis e sistema de pontuação dinâmico.
